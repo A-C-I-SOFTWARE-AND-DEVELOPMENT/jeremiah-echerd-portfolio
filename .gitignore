@@ -1,0 +1,4 @@
+.vercel/
+evidence/
+node_modules/
+.env*
